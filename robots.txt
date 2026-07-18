@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kewu5678.github.io/sitemap.xml
