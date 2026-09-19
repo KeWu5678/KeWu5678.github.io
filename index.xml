@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Ke Wu</title><link>https://kewu5678.github.io/</link><description>Recent content on Ke Wu</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 18 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://kewu5678.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>clean code</title><link>https://kewu5678.github.io/posts/clean-code/</link><pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate><guid>https://kewu5678.github.io/posts/clean-code/</guid><description>&lt;h1 id="what-is-clean-code"&gt;what is clean code&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Ke Wu</title><link>https://kewu5678.github.io/</link><description>Recent content on Ke Wu</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 18 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://kewu5678.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>clean code</title><link>https://kewu5678.github.io/posts/clean-code/</link><pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate><guid>https://kewu5678.github.io/posts/clean-code/</guid><description>&lt;h3 id="what-is-clean-code"&gt;what is clean code&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;at low level:&lt;/li&gt;
 &lt;/ul&gt;
@@ -19,7 +19,7 @@
 &lt;li&gt;is full of crisp abstraction&lt;/li&gt;
 &lt;li&gt;straightforward lines of control&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h1 id="object-and-data-structure"&gt;object and data structure&lt;/h1&gt;
+&lt;h3 id="object-and-data-structure"&gt;object and data structure&lt;/h3&gt;
 &lt;p&gt;Objects hide their data behind abstractions and expose functions that operate on that data. Data structure expose their data and have no meaningful functions.&lt;/p&gt;</description></item><item><title>Hello, World</title><link>https://kewu5678.github.io/posts/hello-world/</link><pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate><guid>https://kewu5678.github.io/posts/hello-world/</guid><description>First post — and a test of math, code, figures, and footnotes.</description></item><item><title>About</title><link>https://kewu5678.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kewu5678.github.io/about/</guid><description>&lt;p&gt;Hi, I&amp;rsquo;m Ke. &lt;!-- TODO: write your actual about page --&gt;&lt;/p&gt;
 &lt;p&gt;I write here about what I&amp;rsquo;m learning and building.&lt;/p&gt;
 &lt;ul&gt;
